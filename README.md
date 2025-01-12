@@ -5,8 +5,11 @@ Ce projet concerne le traitement d'un document d'étalonnage contenant des ligne
 
 Exemple :
 1abc2 → 12
+
 pqr3stu8vwx → 38
+
 a1b2c3d4e5f → 15
+
 treb7uchet → 77
 
 La somme totale de ces valeurs d'étalonnage donne un total final.
@@ -16,9 +19,11 @@ Le but de ce projet est de récupérer et de calculer la somme de toutes les val
 
 Technologie utilisée :
 Langage : C++
+
 Outil de développement : Visual Studio Code
 
-Instructions d'installation
+Instructions d'installation :
+
   1 ) Clonez ou téléchargez le dépôt du projet depuis ce lien GitHub.
 
   2 ) Assurez-vous que le fichier document.txt contenant les lignes de texte à traiter est présent dans le répertoire.
