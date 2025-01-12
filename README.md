@@ -8,12 +8,13 @@ Exemple :
 pqr3stu8vwx → 38
 a1b2c3d4e5f → 15
 treb7uchet → 77
+
 La somme totale de ces valeurs d'étalonnage donne un total final.
 
-Objectif
+Objectif :
 Le but de ce projet est de récupérer et de calculer la somme de toutes les valeurs d'étalonnage présentes dans un document spécifique.
 
-Technologie utilisée
+Technologie utilisée :
 Langage : C++
 Outil de développement : Visual Studio Code
 
@@ -24,11 +25,11 @@ Instructions d'installation
 
   3 ) Compilez le code C++ à l'aide de la commande suivante dans le terminal de vscode : ./test.exe
 
-Utilisation
-Le code lit les lignes du fichier document.txt une par une.
-Pour chaque ligne, il utilise une fonction pour récupérer et combiner les premiers et derniers chiffres.
-Le résultat est affiché ainsi que la somme totale de toutes les valeurs d'étalonnage.
+Utilisation : 
+* Le code lit les lignes du fichier document.txt une par une.
+* Pour chaque ligne, il utilise une fonction pour récupérer et combiner les premiers et derniers chiffres.
+* Le résultat est affiché ainsi que la somme totale de toutes les valeurs d'étalonnage.
 
 
-Résultats attendus
+Résultats attendus : 
 Une somme des valeurs d'étalonnage calculées pour toutes les lignes du fichier.
