@@ -28,7 +28,7 @@ Instructions d'installation :
 
   2 ) Assurez-vous que le fichier document.txt contenant les lignes de texte à traiter est présent dans le répertoire.
 
-  3 ) Compilez le code C++ à l'aide de la commande suivante dans le terminal de vscode : ./test.exe
+  3 ) Compilez le code C++ dans le fichier : test.cpp à l'aide de la commande suivante dans le terminal de vscode : ./test.exe
 
 Utilisation : 
 * Le code lit les lignes du fichier document.txt une par une.
